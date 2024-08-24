@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najafzadacavad&label=Profile%20views&color=0e75b6&style=flat" alt="najafzadacavad" /> </p>
 
-- 🔭 I’m currently working on my own web design agency [Siteify.az](https://siteify.az)
+- 🔭 I’m currently working on my own web development agency [najafzadacavad_dev](https://najafzadacavad-portfolio.netlify.app)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://siteify.az](https://siteify.az)
+- 👨‍💻 All of my projects are available at [https://najafzadacavad-portfolio.netlify.app] and on my Instagram account(https://najafzadacavad-portfolio.netlify.app)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, C++**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cavad najafzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavad najafzada" height="30" width="40" /></a>
-<a href="https://instagram.com/najafzadacavad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najafzadacavad" height="30" width="40" /></a>
+<a href="https://instagram.com/najafzadacavad_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najafzadacavad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
