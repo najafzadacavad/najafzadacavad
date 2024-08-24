@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://najafzadacavad-portfolio.netlify.app] and on my Instagram account(https://najafzadacavad-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://najafzadacavad-portfolio.netlify.app] and on my Instagram account @najafzadacavad_dev
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, C++**
 
